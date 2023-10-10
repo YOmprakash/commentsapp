@@ -1,0 +1,52 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.name-container {
+  display: flex;
+  align-items: center;
+}
+.date {
+  margin-left: 10px;
+}
+.button-container {
+  display: flex;
+  justify-content: space-between;
+}
+.delete-button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.like-button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
